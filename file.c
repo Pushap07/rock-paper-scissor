@@ -61,13 +61,7 @@ int main()
         printf("%s wins by score %d\n", ptr, n);
     }
 
-    // for (int i = 0; i < 3; i++)
-    // {
-    // char *ntr;
-    // ntr=(char*)malloc(9*sizeof(char));
-    // printf("%s:",ptr);
-    // scanf("%s",ntr);
-    // }
+    
 
     return 0;
 }
